@@ -1,4 +1,4 @@
-- 👋 Hey meu nome é @Izabely0Oliveira
+- 👋 Hey meu nome é **@Izabely0Oliveira**
 - 👍 Meu email de contato é izaoliveiracurso@gmail.com
 - 💞️ Eu estou interessada em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a liguagem Javascript e Scratch
